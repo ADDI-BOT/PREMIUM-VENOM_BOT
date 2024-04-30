@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/734170f40b8
 CODE = (environ.get('CODE', 'https://telegra.ph/file/72f425007b22d28bd935e.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'api.shareus.io'))
-STREAM_API = (environ.get('STREAM_API', 'PUIAQBIFrydvLhIzAOeGV8yZppu2'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'https://clicksfly.com'))
+STREAM_API = (environ.get('STREAM_API', 'a2249dd7847494dcf251c6cb32025f60bba9392a'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/Ultroid_Official/18'))
 
 # Admins, Channels & Users
