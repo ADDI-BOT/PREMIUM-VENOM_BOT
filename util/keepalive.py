@@ -1,5 +1,5 @@
 #Thanks @DeletedFromEarth for helping in this journey 
-# welcome (@ultroidxTeam)
+# welcome (@Ghost_Bot_py)
 
 import asyncio
 import logging
