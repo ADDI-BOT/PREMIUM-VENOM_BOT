@@ -1,6 +1,6 @@
 ''' 
-modified by t.me/UltroidxTeam
+modified by t.me/Ghost_Bot_py
 
-Support t.me/ultroidofficial_chat
+Support t.me/Ghost_Bot_py
 
 '''
